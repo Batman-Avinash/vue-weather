@@ -1,6 +1,6 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/4a00acd6-279b-4acb-9ff9-c5845ab1db7e/deploy-status)](https://app.netlify.com/sites/batavinash-vue-weather/deploys)
 
-# [vue-weathe](https://batavinash-vue-weather.netlify.app)
+# [vue-weather](https://batavinash-vue-weather.netlify.app)
 
 ## Project setup
 ```
