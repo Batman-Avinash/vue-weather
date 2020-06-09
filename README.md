@@ -2,6 +2,8 @@
 
 # [vue-weathe](https://batavinash-vue-weather.netlify.app)
 
+![cool weather](src/assets/screens/light-screen.png)  ![warm weather](src/assets/screens/warm-screen.png)
+
 ## Project setup
 ```
 npm install
