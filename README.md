@@ -1,4 +1,6 @@
-# weather
+[![Netlify Status](https://api.netlify.com/api/v1/badges/4a00acd6-279b-4acb-9ff9-c5845ab1db7e/deploy-status)](https://app.netlify.com/sites/batavinash-vue-weather/deploys)
+
+# [vue-weathe](https://cocky-shaw-6ae388.netlify.app)
 
 ## Project setup
 ```
@@ -19,6 +21,3 @@ npm run build
 ```
 npm run lint
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
