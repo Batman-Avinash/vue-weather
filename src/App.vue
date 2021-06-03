@@ -165,7 +165,7 @@ main {
 .weather-box .temp {
   display: inline-block;
   padding: 10px 25px;
-  color: #fff;
+  color: #ffe;
   font-size: 102px;
   font-weight: 900;
 
